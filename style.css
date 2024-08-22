@@ -161,7 +161,7 @@
   
   .sidebar,
   article {
-    background: rgba(34, 24, 24, 0.81);
+    background: rgba(28, 20, 20, 0.81);
     backdrop-filter: blur(100%);
     
     border: 1px solid var(--jet);
