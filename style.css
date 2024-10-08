@@ -328,7 +328,7 @@
   }
   
   .avatar-box {
-    background: var(--bg-gradient-onyx);
+    background: var(rgb(196, 225, 228));
     border-radius: 20px;
   }
   
